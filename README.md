@@ -1,2 +1,0 @@
-# sanmokunarabe
-Created with CodeSandbox
